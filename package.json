@@ -1,0 +1,15 @@
+{
+  "name": "retyped-cordova-plugin-ibeacon-tsd-ambient",
+  "description": "TypeScript typings for cordova-plugin-ibeacon",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/cordova-plugin-ibeacon-tsd-ambient",
+  "typescript": {
+    "definition": "cordova-plugin-ibeacon.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
